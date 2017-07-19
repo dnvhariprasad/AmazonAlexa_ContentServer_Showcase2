@@ -1,4 +1,4 @@
-# AmazonAlexa_ContentServer_Showcase2
+# AmazonAlexa ContentServer Showcase - Number Two
 
 Implementation of integration options to use Alexa / AI for information discovery with OpenText ContentServer as the backend. This is a Custom Skill for Content Server interaction.
 
