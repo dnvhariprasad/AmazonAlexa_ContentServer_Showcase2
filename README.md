@@ -2,7 +2,12 @@
 
 Implementation of integration options to use Alexa / AI for information discovery with OpenText ContentServer as the backend. This is a Custom Skill for Content Server interaction.
 
-The purpose is to inspire discussions around AI and Information Management / Discovery + learn today's AI / Cloud Computing / Information Discovery.
+Main features and driver:
+- Because we can and it's fun
+- Today's interaction points: Voice, Email and Alexa mobile App integration
+- More complex natural language conversation now possible
+- Integration with an instance of OpenText Content Server to kick-start a discussion of AI, natural language user interface options and Information Management / artificial intelligence in general.
+- Why? Because we have to understand and talk about whats relevant today and tomorrow (AI, Big Data, Cloud Computing) and be able to use/showcase it.
 
 Preparation:
 
