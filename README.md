@@ -26,19 +26,19 @@ Feature suggestions:
 - Signup Alexa App card: register as user and maintain credentials and parameters in external system
 - Workflow integration (status, exceptions - What do I need to know?, invocation):
     ... to have a conversation with CS in the following way:
-    -> Please invoke workflow
-    <- I have found 3 workflows for you: Travel Request, Document Approval, Get me a coffee; which one do you want?
-    -> Travel Request please
-    <- OK, What is your departure date?
-    -> (Date 1)
-    <- When are you returning?
-    -> (Date 2)
-    <- And what is the destination?
-    -> Bangkok
-    <- Can you give me a travel reason?
-    -> I have never been there.
-    <- Ok, I have all the required information; do you want me to give you a summary before we send it on it’s way?
-    -> No thanks, please send.
-    <- Ok, done. You will get a notification when processed
+    -> Please invoke workflow  
+    <- I have found 3 workflows for you: Travel Request, Document Approval, Get me a coffee; which one do you want?  
+    -> Travel Request please  
+    <- OK, What is your departure date?  
+    -> (Date 1)  
+    <- When are you returning?  
+    -> (Date 2)  
+    <- And what is the destination?  
+    -> Bangkok  
+    <- Can you give me a travel reason?  
+    -> I have never been there.  
+    <- Ok, I have all the required information; do you want me to give you a summary before we send it on it’s way?  
+    -> No thanks, please send.  
+    <- Ok, done. You will get a notification when processed  
     
 - Integration simple interaction options with a suitable OpenText Process Suite BPM (process), showing end-user (Alexa) interaction and Case Management (case worker) dashboard / service delivery example.  
