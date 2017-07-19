@@ -15,7 +15,7 @@ For testing, I recommend installing alexa-skill-test (https://github.com/voiyse/
 
 I'm using the aws cli to upload the zipped code to AWS Lambda. Get a public/private key, the aws cli tool and automate the process.
 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/bs_OAtzF444?t=35s "Everything Is AWESOME")
+[![Amazon Alexa and OpenText Content Server](http://i.imgur.com/ZQZFtul.jpg)](https://youtu.be/bs_OAtzF444 "Artificial Intelligent assisted Information Discovery - OpenText and Amazon Alexa")
 
 The code has the follwing issues at this stage:
 - Configuration (mailgun, CS16 base URL etc.) is inside index.js. This needs to be configured using external options
