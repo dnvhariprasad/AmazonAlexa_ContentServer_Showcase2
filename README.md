@@ -4,7 +4,8 @@ Implementation of integration options to use Alexa / AI for information discover
 
 Main features and driver:
 - Because we can and it's fun
-- Today's interaction points: Voice, Email and Alexa mobile App integration
+- Because we have to learn constantly
+- Because of the focus of today's interaction points: Voice, Email and (Alexa) mobile App integration
 - More complex natural language conversation now possible
 - Integration with an instance of OpenText Content Server to kick-start a discussion of AI, natural language user interface options and Information Management / artificial intelligence in general.
 - Why? Because we have to understand and talk about whats relevant today and tomorrow (AI, Big Data, Cloud Computing) and be able to use/showcase it.
