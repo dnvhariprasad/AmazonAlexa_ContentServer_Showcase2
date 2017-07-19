@@ -24,10 +24,10 @@ I'm using the aws cli to upload the zipped code to AWS Lambda. Get a public/priv
 
 [![Amazon Alexa and OpenText Content Server](http://i.imgur.com/ZQZFtul.jpg)](https://youtu.be/bs_OAtzF444 "Artificial Intelligent assisted Information Discovery - OpenText and Amazon Alexa")
 
-The code has the follwing issues at this stage:
+The code has the following issues at this stage:
 - Configuration (mailgun, CS16 base URL etc.) is inside index.js. This needs to be configured using external options
 - Because of node.js callback hell, error processing is challenging at best. New ways to trap error in asyc execution needs to be explored
-- General code cleanup
+- General code cleanup / lift the quality.
 
 Feature suggestions:
 - Signup Alexa App card: register as user and maintain credentials and parameters in external system
