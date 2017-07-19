@@ -28,8 +28,8 @@ Feature suggestions:
 - Signup Alexa App card: register as user and maintain credentials and parameters in external system
 - Workflow integration (status, exceptions - What do I need to know?, invocation):
     ... to have a conversation with CS in the following way:  
-    -> alexa, please invoke workflow  
-    <- I have found 3 workflows for you: Travel Request, Document Approval, Get me a coffee; which one do you want?  
+    -> alexa, tell content Server I need to go on a trip.  
+    <- I have found 3 workflows for you that might help you: Travel Request, book a flight ,hire a car; which one do you want?  
     -> Travel Request please  
     <- OK, What is your departure date?  
     -> (Date 1)  
