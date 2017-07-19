@@ -1,11 +1,12 @@
 # AmazonAlexa_ContentServer_Showcase2
 
-Implementation of integration options to use Alexa / AI for information discovery with OpenText ContentServer as the backend. 
+Implementation of integration options to use Alexa / AI for information discovery with OpenText ContentServer as the backend. This is a Custom Skill for Content Server interaction.
 
 The purpose is to inspire discussions around AI and Information Management / Discovery + learn today's AI / Cloud Computing / Information Discovery.
 
 Preparation:
 
+Create Amazon Console and Developer account to run the code in AWS Lambda.  
 Install alexa-sdk: npm install --save alexa-sdk  
 Install request (simple HTTP POST/GET requests) npm install --save request  
 Install moment for Alexa friendly date formating and calculation npm install moment --save  
