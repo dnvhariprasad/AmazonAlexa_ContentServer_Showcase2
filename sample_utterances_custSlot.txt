@@ -1,0 +1,138 @@
+searchIntent search for {searchQuery}
+searchIntent search {searchQuery}
+searchIntent look up {searchQuery}
+searchIntent show me everything about {searchQuery}
+searchIntent what do you know about {searchQuery}
+searchIntent what do you know about emails {searchQuery}
+searchIntent what do you know about documents {searchQuery}
+searchIntent what do you know about policies {searchQuery}
+searchIntent what do you know about all emails from {searchQuery}
+searchIntent what do you know about all emails with {searchQuery}
+searchIntent what do you know about all emails containing {searchQuery}
+searchIntent what do you know about all documents about {searchQuery}
+searchIntent what do you know about all documents with {searchQuery}
+searchIntent get me the latest {searchQuery}
+searchIntent get me the latest document with {searchQuery}
+searchIntent get me the latest document containing {searchQuery}
+searchIntent get me the latest email with {searchQuery}
+searchIntent get me the latest email containing {searchQuery}
+searchIntent get me the latest policy with {searchQuery}
+searchIntent get me the latest policy containing {searchQuery}
+searchIntent get me the latest policy for {searchQuery}
+searchIntent get me the latest documents with {searchQuery}
+searchIntent get me the latest documents containing {searchQuery}
+searchIntent get me the latest emails with {searchQuery}
+searchIntent get me the latest emails containing {searchQuery}
+searchIntent get me the latest policies with {searchQuery}
+searchIntent get me the latest policies containing {searchQuery}
+searchIntent get me emails containing {searchQuery}
+searchIntent get me emails with {searchQuery}
+searchIntent get me all emails containing {searchQuery}
+searchIntent get me all emails with {searchQuery}
+searchIntent search for all emails containing {searchQuery}
+searchIntent look up all emails {searchQuery}
+searchIntent find all emails containing {searchQuery}
+searchIntent find all emails with {searchQuery}
+searchIntent find emails containing {searchQuery}
+searchIntent find emails with {searchQuery}
+searchIntent get me policy documents containing {searchQuery}
+searchIntent get me policy documents with {searchQuery}
+searchIntent get me policies containing {searchQuery}
+searchIntent get me policies with {searchQuery}
+searchIntent get me all policies containing {searchQuery}
+searchIntent get me all policies with {searchQuery}
+searchIntent search for all policies containing {searchQuery}
+searchIntent look up all policies {searchQuery}
+searchIntent find all policies containing {searchQuery}
+searchIntent find all policies with {searchQuery}
+searchIntent find policies containing {searchQuery}
+searchIntent find policies with {searchQuery}
+searchIntent get me documents containing {searchQuery}
+searchIntent get me everything about {searchQuery}
+searchIntent get me documents with {searchQuery}
+searchIntent get me all documents containing {searchQuery}
+searchIntent get me all documents with {searchQuery}
+searchIntent search for all documents containing {searchQuery}
+searchIntent look up all documents {searchQuery}
+searchIntent find all documents containing {searchQuery}
+searchIntent find all documents with {searchQuery}
+searchIntent find documents containing {searchQuery}
+searchIntent find documents with {searchQuery}
+searchIntent give me {searchQuery}
+searchIntent tell me {searchQuery}
+searchIntent tell me about {searchQuery}
+
+detailIntent tell me details about {detailForNumber}
+detailIntent tell me more about {detailForNumber}
+
+detailIntent give me details about {detailForNumber}
+detailIntent tell me something about {detailForNumber}
+detailIntent tell me details about {detailForNumber}
+detailIntent tell me more about document {detailForNumber}
+
+detailIntent give me details about document {detailForNumber}
+detailIntent tell me something about document {detailForNumber}
+detailIntent tell me more about document {detailForNumber}
+
+detailIntent give me details about email {detailForNumber}
+detailIntent tell me something about email {detailForNumber}
+detailIntent tell me more about email {detailForNumber}
+
+detailIntent give me details about policy {detailForNumber}
+detailIntent tell me something about policy {detailForNumber}
+
+readIntent read {readForNumber}
+readIntent read document {readForNumber}
+readIntent read document number {readForNumber}
+readIntent please read {readForNumber}
+readIntent please read document {readForNumber}
+readIntent please read document number {readForNumber}
+readIntent please read email number {readForNumber}
+readIntent give me a synapsis for document {readForNumber}
+readIntent give me a synapsis for document number {readForNumber}
+readIntent give me a summary of {readForNumber}
+readIntent give me a summary of document {readForNumber}
+readIntent give me a summary of email {readForNumber}
+readIntent give me a summary of policy {readForNumber}
+
+
+
+emailIntent please send me that document
+emailIntent please send me that document via email
+emailIntent please send me that document as an email
+emailIntent send me that document
+emailIntent send me that document via email
+emailIntent send me that document as an email
+emailIntent email me that document
+emailIntent email me that document please
+emailIntent email this document
+emailIntent please email this document
+emailIntent send me an email with this document
+emailIntent send this document
+statusIntent tell me about yourself
+statusIntent status
+statusIntent give me your status
+statusIntent who are you
+statusIntent are you ok
+statusIntent what system you are based on
+statusIntent give me a system status
+statusIntent give me your system status
+statusIntent what do you think
+
+thanksIntent thanks
+thanksIntent thanks alexa
+thanksIntent thank you alexa
+thanksIntent thank you
+thanksIntent thank you very much
+thanksIntent great
+errorIntent Give me an error report
+errorIntent error
+errorIntent which error
+errorIntent which errors
+errorIntent which error did you have
+errorIntent which errors did you have
+errorIntent how reliable are you
+errorIntent tell me are you perfect
+errorIntent are you perfect
+errorIntent error report
+errorIntent give me an error report
