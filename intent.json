@@ -1,0 +1,58 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "searchQuery",
+          "type": "SEARCH"
+        }
+      ],
+      "intent": "searchIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "detailForNumber",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "detailIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "readForNumber",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "readIntent"
+    },
+    {
+      "intent": "emailIntent"
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.NextIntent"
+    },
+    {
+      "intent": "statusIntent"
+    },
+    {
+      "intent": "thanksIntent"
+    },
+    {
+      "intent": "errorIntent"
+    }
+  ]
+}
